@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Truutuong\Truutuong\bin\Debug\net8.0\Truutuong.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Truutuong\Truutuong\bin\Debug\net8.0\Truutuong.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Truutuong\Truutuong\bin\Debug\net8.0\Truutuong.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Truutuong\Truutuong\bin\Debug\net8.0\Truutuong.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Truutuong\Truutuong\bin\Debug\net8.0\Truutuong.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Truutuong\Truutuong\obj\Debug\net8.0\Truutuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Truutuong\Truutuong\obj\Debug\net8.0\Truutuong.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Truutuong\Truutuong\obj\Debug\net8.0\Truutuong.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Truutuong\Truutuong\obj\Debug\net8.0\Truutuong.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Truutuong\Truutuong\obj\Debug\net8.0\Truutuong.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Truutuong\Truutuong\obj\Debug\net8.0\refint\Truutuong.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Truutuong\Truutuong\obj\Debug\net8.0\Truutuong.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Truutuong\Truutuong\obj\Debug\net8.0\Truutuong.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Truutuong\Truutuong\obj\Debug\net8.0\ref\Truutuong.dll
