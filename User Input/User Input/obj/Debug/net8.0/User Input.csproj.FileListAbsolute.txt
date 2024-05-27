@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\User Input\User Input\bin\Debug\net8.0\User Input.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\User Input\User Input\bin\Debug\net8.0\User Input.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\User Input\User Input\bin\Debug\net8.0\User Input.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\User Input\User Input\bin\Debug\net8.0\User Input.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\User Input\User Input\bin\Debug\net8.0\User Input.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\User Input\User Input\obj\Debug\net8.0\User Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\User Input\User Input\obj\Debug\net8.0\User Input.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\User Input\User Input\obj\Debug\net8.0\User Input.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\User Input\User Input\obj\Debug\net8.0\User Input.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\User Input\User Input\obj\Debug\net8.0\User Input.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\User Input\User Input\obj\Debug\net8.0\refint\User Input.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\User Input\User Input\obj\Debug\net8.0\User Input.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\User Input\User Input\obj\Debug\net8.0\User Input.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\User Input\User Input\obj\Debug\net8.0\ref\User Input.dll
