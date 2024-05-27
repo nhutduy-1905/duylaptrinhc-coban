@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers3]\Classes Numbers3]\bin\Debug\net8.0\Classes Numbers3].exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers3]\Classes Numbers3]\bin\Debug\net8.0\Classes Numbers3].deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers3]\Classes Numbers3]\bin\Debug\net8.0\Classes Numbers3].runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers3]\Classes Numbers3]\bin\Debug\net8.0\Classes Numbers3].dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers3]\Classes Numbers3]\bin\Debug\net8.0\Classes Numbers3].pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers3]\Classes Numbers3]\obj\Debug\net8.0\Classes Numbers3].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers3]\Classes Numbers3]\obj\Debug\net8.0\Classes Numbers3].AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers3]\Classes Numbers3]\obj\Debug\net8.0\Classes Numbers3].AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers3]\Classes Numbers3]\obj\Debug\net8.0\Classes Numbers3].csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers3]\Classes Numbers3]\obj\Debug\net8.0\Classes Numbers3].dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers3]\Classes Numbers3]\obj\Debug\net8.0\refint\Classes Numbers3].dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers3]\Classes Numbers3]\obj\Debug\net8.0\Classes Numbers3].pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers3]\Classes Numbers3]\obj\Debug\net8.0\Classes Numbers3].genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers3]\Classes Numbers3]\obj\Debug\net8.0\ref\Classes Numbers3].dll
