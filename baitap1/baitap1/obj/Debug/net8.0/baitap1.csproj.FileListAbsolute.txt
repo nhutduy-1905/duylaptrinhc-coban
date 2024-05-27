@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\baitap1\baitap1\obj\Debug\net8.0\baitap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\baitap1\baitap1\obj\Debug\net8.0\baitap1.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\baitap1\baitap1\obj\Debug\net8.0\baitap1.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\baitap1\baitap1\obj\Debug\net8.0\baitap1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\baitap1\baitap1\bin\Debug\net8.0\baitap1.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\baitap1\baitap1\bin\Debug\net8.0\baitap1.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\baitap1\baitap1\bin\Debug\net8.0\baitap1.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\baitap1\baitap1\bin\Debug\net8.0\baitap1.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\baitap1\baitap1\bin\Debug\net8.0\baitap1.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\baitap1\baitap1\obj\Debug\net8.0\baitap1.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\baitap1\baitap1\obj\Debug\net8.0\refint\baitap1.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\baitap1\baitap1\obj\Debug\net8.0\baitap1.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\baitap1\baitap1\obj\Debug\net8.0\baitap1.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\baitap1\baitap1\obj\Debug\net8.0\ref\baitap1.dll
