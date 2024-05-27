@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Automatic properties\Automatic properties\bin\Debug\net8.0\Automatic properties.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Automatic properties\Automatic properties\bin\Debug\net8.0\Automatic properties.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Automatic properties\Automatic properties\bin\Debug\net8.0\Automatic properties.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Automatic properties\Automatic properties\bin\Debug\net8.0\Automatic properties.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Automatic properties\Automatic properties\bin\Debug\net8.0\Automatic properties.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Automatic properties\Automatic properties\obj\Debug\net8.0\Automatic properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Automatic properties\Automatic properties\obj\Debug\net8.0\Automatic properties.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Automatic properties\Automatic properties\obj\Debug\net8.0\Automatic properties.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Automatic properties\Automatic properties\obj\Debug\net8.0\Automatic properties.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Automatic properties\Automatic properties\obj\Debug\net8.0\Automatic properties.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Automatic properties\Automatic properties\obj\Debug\net8.0\refint\Automatic properties.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Automatic properties\Automatic properties\obj\Debug\net8.0\Automatic properties.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Automatic properties\Automatic properties\obj\Debug\net8.0\Automatic properties.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Automatic properties\Automatic properties\obj\Debug\net8.0\ref\Automatic properties.dll

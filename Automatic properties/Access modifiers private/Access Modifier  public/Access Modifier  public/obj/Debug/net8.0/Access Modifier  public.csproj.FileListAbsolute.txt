@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access Modifier  public\Access Modifier  public\bin\Debug\net8.0\Access Modifier  public.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access Modifier  public\Access Modifier  public\bin\Debug\net8.0\Access Modifier  public.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access Modifier  public\Access Modifier  public\bin\Debug\net8.0\Access Modifier  public.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access Modifier  public\Access Modifier  public\bin\Debug\net8.0\Access Modifier  public.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access Modifier  public\Access Modifier  public\bin\Debug\net8.0\Access Modifier  public.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access Modifier  public\Access Modifier  public\obj\Debug\net8.0\Access Modifier  public.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access Modifier  public\Access Modifier  public\obj\Debug\net8.0\Access Modifier  public.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access Modifier  public\Access Modifier  public\obj\Debug\net8.0\Access Modifier  public.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access Modifier  public\Access Modifier  public\obj\Debug\net8.0\Access Modifier  public.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access Modifier  public\Access Modifier  public\obj\Debug\net8.0\Access Modifier  public.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access Modifier  public\Access Modifier  public\obj\Debug\net8.0\refint\Access Modifier  public.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access Modifier  public\Access Modifier  public\obj\Debug\net8.0\Access Modifier  public.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access Modifier  public\Access Modifier  public\obj\Debug\net8.0\Access Modifier  public.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access Modifier  public\Access Modifier  public\obj\Debug\net8.0\ref\Access Modifier  public.dll
