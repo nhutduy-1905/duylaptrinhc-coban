@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mangdachieu\Mangdachieu\bin\Debug\net8.0\Mangdachieu.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mangdachieu\Mangdachieu\bin\Debug\net8.0\Mangdachieu.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mangdachieu\Mangdachieu\bin\Debug\net8.0\Mangdachieu.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mangdachieu\Mangdachieu\bin\Debug\net8.0\Mangdachieu.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mangdachieu\Mangdachieu\bin\Debug\net8.0\Mangdachieu.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mangdachieu\Mangdachieu\obj\Debug\net8.0\Mangdachieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mangdachieu\Mangdachieu\obj\Debug\net8.0\Mangdachieu.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mangdachieu\Mangdachieu\obj\Debug\net8.0\Mangdachieu.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mangdachieu\Mangdachieu\obj\Debug\net8.0\Mangdachieu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mangdachieu\Mangdachieu\obj\Debug\net8.0\Mangdachieu.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mangdachieu\Mangdachieu\obj\Debug\net8.0\refint\Mangdachieu.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mangdachieu\Mangdachieu\obj\Debug\net8.0\Mangdachieu.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mangdachieu\Mangdachieu\obj\Debug\net8.0\Mangdachieu.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mangdachieu\Mangdachieu\obj\Debug\net8.0\ref\Mangdachieu.dll
