@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Vonglap foreach\Vonglap foreach\bin\Debug\net8.0\Vonglap foreach.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Vonglap foreach\Vonglap foreach\bin\Debug\net8.0\Vonglap foreach.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Vonglap foreach\Vonglap foreach\bin\Debug\net8.0\Vonglap foreach.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Vonglap foreach\Vonglap foreach\bin\Debug\net8.0\Vonglap foreach.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Vonglap foreach\Vonglap foreach\bin\Debug\net8.0\Vonglap foreach.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Vonglap foreach\Vonglap foreach\obj\Debug\net8.0\Vonglap foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Vonglap foreach\Vonglap foreach\obj\Debug\net8.0\Vonglap foreach.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Vonglap foreach\Vonglap foreach\obj\Debug\net8.0\Vonglap foreach.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Vonglap foreach\Vonglap foreach\obj\Debug\net8.0\Vonglap foreach.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Vonglap foreach\Vonglap foreach\obj\Debug\net8.0\Vonglap foreach.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Vonglap foreach\Vonglap foreach\obj\Debug\net8.0\refint\Vonglap foreach.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Vonglap foreach\Vonglap foreach\obj\Debug\net8.0\Vonglap foreach.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Vonglap foreach\Vonglap foreach\obj\Debug\net8.0\Vonglap foreach.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Vonglap foreach\Vonglap foreach\obj\Debug\net8.0\ref\Vonglap foreach.dll
