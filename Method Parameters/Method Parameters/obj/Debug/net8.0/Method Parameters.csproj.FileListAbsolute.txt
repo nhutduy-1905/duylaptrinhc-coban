@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Method Parameters\Method Parameters\bin\Debug\net8.0\Method Parameters.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Method Parameters\Method Parameters\bin\Debug\net8.0\Method Parameters.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Method Parameters\Method Parameters\bin\Debug\net8.0\Method Parameters.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Method Parameters\Method Parameters\bin\Debug\net8.0\Method Parameters.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Method Parameters\Method Parameters\bin\Debug\net8.0\Method Parameters.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Method Parameters\Method Parameters\obj\Debug\net8.0\Method Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Method Parameters\Method Parameters\obj\Debug\net8.0\Method Parameters.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Method Parameters\Method Parameters\obj\Debug\net8.0\Method Parameters.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Method Parameters\Method Parameters\obj\Debug\net8.0\Method Parameters.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Method Parameters\Method Parameters\obj\Debug\net8.0\Method Parameters.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Method Parameters\Method Parameters\obj\Debug\net8.0\refint\Method Parameters.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Method Parameters\Method Parameters\obj\Debug\net8.0\Method Parameters.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Method Parameters\Method Parameters\obj\Debug\net8.0\Method Parameters.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Method Parameters\Method Parameters\obj\Debug\net8.0\ref\Method Parameters.dll
