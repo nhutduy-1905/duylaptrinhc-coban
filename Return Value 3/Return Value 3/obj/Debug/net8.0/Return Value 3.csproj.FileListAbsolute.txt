@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Return Value 3\Return Value 3\bin\Debug\net8.0\Return Value 3.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Return Value 3\Return Value 3\bin\Debug\net8.0\Return Value 3.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Return Value 3\Return Value 3\bin\Debug\net8.0\Return Value 3.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Return Value 3\Return Value 3\bin\Debug\net8.0\Return Value 3.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Return Value 3\Return Value 3\bin\Debug\net8.0\Return Value 3.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Return Value 3\Return Value 3\obj\Debug\net8.0\Return Value 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Return Value 3\Return Value 3\obj\Debug\net8.0\Return Value 3.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Return Value 3\Return Value 3\obj\Debug\net8.0\Return Value 3.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Return Value 3\Return Value 3\obj\Debug\net8.0\Return Value 3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Return Value 3\Return Value 3\obj\Debug\net8.0\Return Value 3.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Return Value 3\Return Value 3\obj\Debug\net8.0\refint\Return Value 3.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Return Value 3\Return Value 3\obj\Debug\net8.0\Return Value 3.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Return Value 3\Return Value 3\obj\Debug\net8.0\Return Value 3.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Return Value 3\Return Value 3\obj\Debug\net8.0\ref\Return Value 3.dll
