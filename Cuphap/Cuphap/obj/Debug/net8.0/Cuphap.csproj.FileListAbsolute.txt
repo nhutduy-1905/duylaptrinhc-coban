@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Cuphap\Cuphap\bin\Debug\net8.0\Cuphap.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Cuphap\Cuphap\bin\Debug\net8.0\Cuphap.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Cuphap\Cuphap\bin\Debug\net8.0\Cuphap.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Cuphap\Cuphap\bin\Debug\net8.0\Cuphap.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Cuphap\Cuphap\bin\Debug\net8.0\Cuphap.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Cuphap\Cuphap\obj\Debug\net8.0\Cuphap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Cuphap\Cuphap\obj\Debug\net8.0\Cuphap.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Cuphap\Cuphap\obj\Debug\net8.0\Cuphap.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Cuphap\Cuphap\obj\Debug\net8.0\Cuphap.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Cuphap\Cuphap\obj\Debug\net8.0\Cuphap.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Cuphap\Cuphap\obj\Debug\net8.0\refint\Cuphap.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Cuphap\Cuphap\obj\Debug\net8.0\Cuphap.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Cuphap\Cuphap\obj\Debug\net8.0\Cuphap.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Cuphap\Cuphap\obj\Debug\net8.0\ref\Cuphap.dll
