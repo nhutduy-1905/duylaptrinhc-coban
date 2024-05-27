@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\For Loop\For Loop\bin\Debug\net8.0\For Loop.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\For Loop\For Loop\bin\Debug\net8.0\For Loop.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\For Loop\For Loop\bin\Debug\net8.0\For Loop.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\For Loop\For Loop\bin\Debug\net8.0\For Loop.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\For Loop\For Loop\bin\Debug\net8.0\For Loop.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\For Loop\For Loop\obj\Debug\net8.0\For Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\For Loop\For Loop\obj\Debug\net8.0\For Loop.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\For Loop\For Loop\obj\Debug\net8.0\For Loop.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\For Loop\For Loop\obj\Debug\net8.0\For Loop.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\For Loop\For Loop\obj\Debug\net8.0\For Loop.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\For Loop\For Loop\obj\Debug\net8.0\refint\For Loop.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\For Loop\For Loop\obj\Debug\net8.0\For Loop.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\For Loop\For Loop\obj\Debug\net8.0\For Loop.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\For Loop\For Loop\obj\Debug\net8.0\ref\For Loop.dll
