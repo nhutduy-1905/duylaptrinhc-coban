@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\KethuaBase\KethuaBase\bin\Debug\net8.0\KethuaBase.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\KethuaBase\KethuaBase\bin\Debug\net8.0\KethuaBase.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\KethuaBase\KethuaBase\bin\Debug\net8.0\KethuaBase.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\KethuaBase\KethuaBase\bin\Debug\net8.0\KethuaBase.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\KethuaBase\KethuaBase\bin\Debug\net8.0\KethuaBase.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\KethuaBase\KethuaBase\obj\Debug\net8.0\KethuaBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\KethuaBase\KethuaBase\obj\Debug\net8.0\KethuaBase.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\KethuaBase\KethuaBase\obj\Debug\net8.0\KethuaBase.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\KethuaBase\KethuaBase\obj\Debug\net8.0\KethuaBase.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\KethuaBase\KethuaBase\obj\Debug\net8.0\KethuaBase.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\KethuaBase\KethuaBase\obj\Debug\net8.0\refint\KethuaBase.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\KethuaBase\KethuaBase\obj\Debug\net8.0\KethuaBase.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\KethuaBase\KethuaBase\obj\Debug\net8.0\KethuaBase.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\KethuaBase\KethuaBase\obj\Debug\net8.0\ref\KethuaBase.dll
