@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\lapquamanghaichieu\lapquamanghaichieu\bin\Debug\net8.0\lapquamanghaichieu.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\lapquamanghaichieu\lapquamanghaichieu\bin\Debug\net8.0\lapquamanghaichieu.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\lapquamanghaichieu\lapquamanghaichieu\bin\Debug\net8.0\lapquamanghaichieu.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\lapquamanghaichieu\lapquamanghaichieu\bin\Debug\net8.0\lapquamanghaichieu.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\lapquamanghaichieu\lapquamanghaichieu\bin\Debug\net8.0\lapquamanghaichieu.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\lapquamanghaichieu\lapquamanghaichieu\obj\Debug\net8.0\lapquamanghaichieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\lapquamanghaichieu\lapquamanghaichieu\obj\Debug\net8.0\lapquamanghaichieu.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\lapquamanghaichieu\lapquamanghaichieu\obj\Debug\net8.0\lapquamanghaichieu.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\lapquamanghaichieu\lapquamanghaichieu\obj\Debug\net8.0\lapquamanghaichieu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\lapquamanghaichieu\lapquamanghaichieu\obj\Debug\net8.0\lapquamanghaichieu.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\lapquamanghaichieu\lapquamanghaichieu\obj\Debug\net8.0\refint\lapquamanghaichieu.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\lapquamanghaichieu\lapquamanghaichieu\obj\Debug\net8.0\lapquamanghaichieu.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\lapquamanghaichieu\lapquamanghaichieu\obj\Debug\net8.0\lapquamanghaichieu.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\lapquamanghaichieu\lapquamanghaichieu\obj\Debug\net8.0\ref\lapquamanghaichieu.dll
