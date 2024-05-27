@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Default Parameter\Default Parameter\bin\Debug\net8.0\Default Parameter.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Default Parameter\Default Parameter\bin\Debug\net8.0\Default Parameter.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Default Parameter\Default Parameter\bin\Debug\net8.0\Default Parameter.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Default Parameter\Default Parameter\bin\Debug\net8.0\Default Parameter.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Default Parameter\Default Parameter\bin\Debug\net8.0\Default Parameter.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Default Parameter\Default Parameter\obj\Debug\net8.0\Default Parameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Default Parameter\Default Parameter\obj\Debug\net8.0\Default Parameter.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Default Parameter\Default Parameter\obj\Debug\net8.0\Default Parameter.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Default Parameter\Default Parameter\obj\Debug\net8.0\Default Parameter.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Default Parameter\Default Parameter\obj\Debug\net8.0\Default Parameter.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Default Parameter\Default Parameter\obj\Debug\net8.0\refint\Default Parameter.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Default Parameter\Default Parameter\obj\Debug\net8.0\Default Parameter.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Default Parameter\Default Parameter\obj\Debug\net8.0\Default Parameter.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Default Parameter\Default Parameter\obj\Debug\net8.0\ref\Default Parameter.dll
