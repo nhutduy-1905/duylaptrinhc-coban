@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\donggoi\donggoi\bin\Debug\net8.0\donggoi.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\donggoi\donggoi\bin\Debug\net8.0\donggoi.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\donggoi\donggoi\bin\Debug\net8.0\donggoi.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\donggoi\donggoi\bin\Debug\net8.0\donggoi.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\donggoi\donggoi\bin\Debug\net8.0\donggoi.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\donggoi\donggoi\obj\Debug\net8.0\donggoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\donggoi\donggoi\obj\Debug\net8.0\donggoi.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\donggoi\donggoi\obj\Debug\net8.0\donggoi.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\donggoi\donggoi\obj\Debug\net8.0\donggoi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\donggoi\donggoi\obj\Debug\net8.0\donggoi.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\donggoi\donggoi\obj\Debug\net8.0\refint\donggoi.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\donggoi\donggoi\obj\Debug\net8.0\donggoi.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\donggoi\donggoi\obj\Debug\net8.0\donggoi.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\donggoi\donggoi\obj\Debug\net8.0\ref\donggoi.dll
