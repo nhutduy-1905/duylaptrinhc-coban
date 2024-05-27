@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue\Continue\obj\Debug\net8.0\Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue\Continue\obj\Debug\net8.0\Continue.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue\Continue\obj\Debug\net8.0\Continue.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue\Continue\obj\Debug\net8.0\Continue.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue\Continue\bin\Debug\net8.0\Continue.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue\Continue\bin\Debug\net8.0\Continue.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue\Continue\bin\Debug\net8.0\Continue.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue\Continue\bin\Debug\net8.0\Continue.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue\Continue\bin\Debug\net8.0\Continue.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue\Continue\obj\Debug\net8.0\Continue.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue\Continue\obj\Debug\net8.0\refint\Continue.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue\Continue\obj\Debug\net8.0\Continue.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue\Continue\obj\Debug\net8.0\Continue.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue\Continue\obj\Debug\net8.0\ref\Continue.dll
