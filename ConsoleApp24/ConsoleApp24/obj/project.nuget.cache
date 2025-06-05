@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xy3gNQi/AnM=",
+  "success": true,
+  "projectFilePath": "D:\\vlu_cntt\\oop\\ConsoleApp24\\ConsoleApp24\\ConsoleApp24.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tranh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

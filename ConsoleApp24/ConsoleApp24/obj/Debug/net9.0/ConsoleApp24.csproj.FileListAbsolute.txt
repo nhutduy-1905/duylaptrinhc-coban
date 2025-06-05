@@ -1,0 +1,14 @@
+D:\vlu_cntt\oop\ConsoleApp24\ConsoleApp24\bin\Debug\net9.0\ConsoleApp24.exe
+D:\vlu_cntt\oop\ConsoleApp24\ConsoleApp24\bin\Debug\net9.0\ConsoleApp24.deps.json
+D:\vlu_cntt\oop\ConsoleApp24\ConsoleApp24\bin\Debug\net9.0\ConsoleApp24.runtimeconfig.json
+D:\vlu_cntt\oop\ConsoleApp24\ConsoleApp24\bin\Debug\net9.0\ConsoleApp24.dll
+D:\vlu_cntt\oop\ConsoleApp24\ConsoleApp24\bin\Debug\net9.0\ConsoleApp24.pdb
+D:\vlu_cntt\oop\ConsoleApp24\ConsoleApp24\obj\Debug\net9.0\ConsoleApp24.GeneratedMSBuildEditorConfig.editorconfig
+D:\vlu_cntt\oop\ConsoleApp24\ConsoleApp24\obj\Debug\net9.0\ConsoleApp24.AssemblyInfoInputs.cache
+D:\vlu_cntt\oop\ConsoleApp24\ConsoleApp24\obj\Debug\net9.0\ConsoleApp24.AssemblyInfo.cs
+D:\vlu_cntt\oop\ConsoleApp24\ConsoleApp24\obj\Debug\net9.0\ConsoleApp24.csproj.CoreCompileInputs.cache
+D:\vlu_cntt\oop\ConsoleApp24\ConsoleApp24\obj\Debug\net9.0\ConsoleApp24.dll
+D:\vlu_cntt\oop\ConsoleApp24\ConsoleApp24\obj\Debug\net9.0\refint\ConsoleApp24.dll
+D:\vlu_cntt\oop\ConsoleApp24\ConsoleApp24\obj\Debug\net9.0\ConsoleApp24.pdb
+D:\vlu_cntt\oop\ConsoleApp24\ConsoleApp24\obj\Debug\net9.0\ConsoleApp24.genruntimeconfig.cache
+D:\vlu_cntt\oop\ConsoleApp24\ConsoleApp24\obj\Debug\net9.0\ref\ConsoleApp24.dll

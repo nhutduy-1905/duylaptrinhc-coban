@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vlu_cntt\\oop\\ConsoleApp12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF416824-9F17-44FC-8FBA-A4C8138B65C1}|ConsoleApp12\\ConsoleApp12.csproj|d:\\vlu_cntt\\oop\\consoleapp12\\consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF416824-9F17-44FC-8FBA-A4C8138B65C1}|ConsoleApp12\\ConsoleApp12.csproj|solutionrelative:consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 434,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vlu_cntt\\oop\\ConsoleApp12\\ConsoleApp12\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\Program.cs",
+              "ToolTip": "D:\\vlu_cntt\\oop\\ConsoleApp12\\ConsoleApp12\\Program.cs",
+              "RelativeToolTip": "ConsoleApp12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T04:32:13.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 19,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

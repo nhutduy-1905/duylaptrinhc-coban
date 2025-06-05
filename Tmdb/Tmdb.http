@@ -1,0 +1,6 @@
+@Tmdb_HostAddress = http://localhost:5274
+
+GET {{Tmdb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

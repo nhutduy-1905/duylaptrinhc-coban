@@ -1,0 +1,14 @@
+D:\vlu_cntt\oop\ConsoleApp18\ConsoleApp18\bin\Debug\net9.0\ConsoleApp18.exe
+D:\vlu_cntt\oop\ConsoleApp18\ConsoleApp18\bin\Debug\net9.0\ConsoleApp18.deps.json
+D:\vlu_cntt\oop\ConsoleApp18\ConsoleApp18\bin\Debug\net9.0\ConsoleApp18.runtimeconfig.json
+D:\vlu_cntt\oop\ConsoleApp18\ConsoleApp18\bin\Debug\net9.0\ConsoleApp18.dll
+D:\vlu_cntt\oop\ConsoleApp18\ConsoleApp18\bin\Debug\net9.0\ConsoleApp18.pdb
+D:\vlu_cntt\oop\ConsoleApp18\ConsoleApp18\obj\Debug\net9.0\ConsoleApp18.GeneratedMSBuildEditorConfig.editorconfig
+D:\vlu_cntt\oop\ConsoleApp18\ConsoleApp18\obj\Debug\net9.0\ConsoleApp18.AssemblyInfoInputs.cache
+D:\vlu_cntt\oop\ConsoleApp18\ConsoleApp18\obj\Debug\net9.0\ConsoleApp18.AssemblyInfo.cs
+D:\vlu_cntt\oop\ConsoleApp18\ConsoleApp18\obj\Debug\net9.0\ConsoleApp18.csproj.CoreCompileInputs.cache
+D:\vlu_cntt\oop\ConsoleApp18\ConsoleApp18\obj\Debug\net9.0\ConsoleApp18.dll
+D:\vlu_cntt\oop\ConsoleApp18\ConsoleApp18\obj\Debug\net9.0\refint\ConsoleApp18.dll
+D:\vlu_cntt\oop\ConsoleApp18\ConsoleApp18\obj\Debug\net9.0\ConsoleApp18.pdb
+D:\vlu_cntt\oop\ConsoleApp18\ConsoleApp18\obj\Debug\net9.0\ConsoleApp18.genruntimeconfig.cache
+D:\vlu_cntt\oop\ConsoleApp18\ConsoleApp18\obj\Debug\net9.0\ref\ConsoleApp18.dll

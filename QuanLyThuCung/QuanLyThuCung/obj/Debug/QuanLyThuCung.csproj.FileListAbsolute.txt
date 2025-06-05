@@ -1,0 +1,7 @@
+D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\bin\Debug\QuanLyThuCung.exe.config
+D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\bin\Debug\QuanLyThuCung.exe
+D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\bin\Debug\QuanLyThuCung.pdb
+D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\obj\Debug\QuanLyThuCung.csproj.AssemblyReference.cache
+D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\obj\Debug\QuanLyThuCung.csproj.CoreCompileInputs.cache
+D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\obj\Debug\QuanLyThuCung.exe
+D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\obj\Debug\QuanLyThuCung.pdb

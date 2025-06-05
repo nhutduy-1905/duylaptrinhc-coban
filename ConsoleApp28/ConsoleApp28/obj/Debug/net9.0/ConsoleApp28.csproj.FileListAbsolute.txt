@@ -1,0 +1,14 @@
+D:\vlu_cntt\oop\ConsoleApp28\ConsoleApp28\bin\Debug\net9.0\ConsoleApp28.exe
+D:\vlu_cntt\oop\ConsoleApp28\ConsoleApp28\bin\Debug\net9.0\ConsoleApp28.deps.json
+D:\vlu_cntt\oop\ConsoleApp28\ConsoleApp28\bin\Debug\net9.0\ConsoleApp28.runtimeconfig.json
+D:\vlu_cntt\oop\ConsoleApp28\ConsoleApp28\bin\Debug\net9.0\ConsoleApp28.dll
+D:\vlu_cntt\oop\ConsoleApp28\ConsoleApp28\bin\Debug\net9.0\ConsoleApp28.pdb
+D:\vlu_cntt\oop\ConsoleApp28\ConsoleApp28\obj\Debug\net9.0\ConsoleApp28.GeneratedMSBuildEditorConfig.editorconfig
+D:\vlu_cntt\oop\ConsoleApp28\ConsoleApp28\obj\Debug\net9.0\ConsoleApp28.AssemblyInfoInputs.cache
+D:\vlu_cntt\oop\ConsoleApp28\ConsoleApp28\obj\Debug\net9.0\ConsoleApp28.AssemblyInfo.cs
+D:\vlu_cntt\oop\ConsoleApp28\ConsoleApp28\obj\Debug\net9.0\ConsoleApp28.csproj.CoreCompileInputs.cache
+D:\vlu_cntt\oop\ConsoleApp28\ConsoleApp28\obj\Debug\net9.0\ConsoleApp28.dll
+D:\vlu_cntt\oop\ConsoleApp28\ConsoleApp28\obj\Debug\net9.0\refint\ConsoleApp28.dll
+D:\vlu_cntt\oop\ConsoleApp28\ConsoleApp28\obj\Debug\net9.0\ConsoleApp28.pdb
+D:\vlu_cntt\oop\ConsoleApp28\ConsoleApp28\obj\Debug\net9.0\ConsoleApp28.genruntimeconfig.cache
+D:\vlu_cntt\oop\ConsoleApp28\ConsoleApp28\obj\Debug\net9.0\ref\ConsoleApp28.dll

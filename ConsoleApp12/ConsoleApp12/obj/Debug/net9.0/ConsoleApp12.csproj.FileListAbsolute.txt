@@ -1,0 +1,14 @@
+D:\vlu_cntt\oop\ConsoleApp12\ConsoleApp12\bin\Debug\net9.0\ConsoleApp12.exe
+D:\vlu_cntt\oop\ConsoleApp12\ConsoleApp12\bin\Debug\net9.0\ConsoleApp12.deps.json
+D:\vlu_cntt\oop\ConsoleApp12\ConsoleApp12\bin\Debug\net9.0\ConsoleApp12.runtimeconfig.json
+D:\vlu_cntt\oop\ConsoleApp12\ConsoleApp12\bin\Debug\net9.0\ConsoleApp12.dll
+D:\vlu_cntt\oop\ConsoleApp12\ConsoleApp12\bin\Debug\net9.0\ConsoleApp12.pdb
+D:\vlu_cntt\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net9.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+D:\vlu_cntt\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net9.0\ConsoleApp12.AssemblyInfoInputs.cache
+D:\vlu_cntt\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net9.0\ConsoleApp12.AssemblyInfo.cs
+D:\vlu_cntt\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net9.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+D:\vlu_cntt\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net9.0\ConsoleApp12.dll
+D:\vlu_cntt\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net9.0\refint\ConsoleApp12.dll
+D:\vlu_cntt\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net9.0\ConsoleApp12.pdb
+D:\vlu_cntt\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net9.0\ConsoleApp12.genruntimeconfig.cache
+D:\vlu_cntt\oop\ConsoleApp12\ConsoleApp12\obj\Debug\net9.0\ref\ConsoleApp12.dll

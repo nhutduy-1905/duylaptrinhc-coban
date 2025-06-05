@@ -1,0 +1,14 @@
+D:\vlu_cntt\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+D:\vlu_cntt\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\ConsoleApp11.AssemblyInfoInputs.cache
+D:\vlu_cntt\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\ConsoleApp11.AssemblyInfo.cs
+D:\vlu_cntt\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\vlu_cntt\oop\ConsoleApp11\ConsoleApp11\bin\Debug\net9.0\ConsoleApp11.exe
+D:\vlu_cntt\oop\ConsoleApp11\ConsoleApp11\bin\Debug\net9.0\ConsoleApp11.deps.json
+D:\vlu_cntt\oop\ConsoleApp11\ConsoleApp11\bin\Debug\net9.0\ConsoleApp11.runtimeconfig.json
+D:\vlu_cntt\oop\ConsoleApp11\ConsoleApp11\bin\Debug\net9.0\ConsoleApp11.dll
+D:\vlu_cntt\oop\ConsoleApp11\ConsoleApp11\bin\Debug\net9.0\ConsoleApp11.pdb
+D:\vlu_cntt\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\ConsoleApp11.dll
+D:\vlu_cntt\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\refint\ConsoleApp11.dll
+D:\vlu_cntt\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\ConsoleApp11.pdb
+D:\vlu_cntt\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\ConsoleApp11.genruntimeconfig.cache
+D:\vlu_cntt\oop\ConsoleApp11\ConsoleApp11\obj\Debug\net9.0\ref\ConsoleApp11.dll

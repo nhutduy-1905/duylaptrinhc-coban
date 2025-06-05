@@ -1,0 +1,14 @@
+D:\vlu_cntt\oop\ConsoleApp19\ConsoleApp19\bin\Debug\net9.0\ConsoleApp19.exe
+D:\vlu_cntt\oop\ConsoleApp19\ConsoleApp19\bin\Debug\net9.0\ConsoleApp19.deps.json
+D:\vlu_cntt\oop\ConsoleApp19\ConsoleApp19\bin\Debug\net9.0\ConsoleApp19.runtimeconfig.json
+D:\vlu_cntt\oop\ConsoleApp19\ConsoleApp19\bin\Debug\net9.0\ConsoleApp19.dll
+D:\vlu_cntt\oop\ConsoleApp19\ConsoleApp19\bin\Debug\net9.0\ConsoleApp19.pdb
+D:\vlu_cntt\oop\ConsoleApp19\ConsoleApp19\obj\Debug\net9.0\ConsoleApp19.GeneratedMSBuildEditorConfig.editorconfig
+D:\vlu_cntt\oop\ConsoleApp19\ConsoleApp19\obj\Debug\net9.0\ConsoleApp19.AssemblyInfoInputs.cache
+D:\vlu_cntt\oop\ConsoleApp19\ConsoleApp19\obj\Debug\net9.0\ConsoleApp19.AssemblyInfo.cs
+D:\vlu_cntt\oop\ConsoleApp19\ConsoleApp19\obj\Debug\net9.0\ConsoleApp19.csproj.CoreCompileInputs.cache
+D:\vlu_cntt\oop\ConsoleApp19\ConsoleApp19\obj\Debug\net9.0\ConsoleApp19.dll
+D:\vlu_cntt\oop\ConsoleApp19\ConsoleApp19\obj\Debug\net9.0\refint\ConsoleApp19.dll
+D:\vlu_cntt\oop\ConsoleApp19\ConsoleApp19\obj\Debug\net9.0\ConsoleApp19.pdb
+D:\vlu_cntt\oop\ConsoleApp19\ConsoleApp19\obj\Debug\net9.0\ConsoleApp19.genruntimeconfig.cache
+D:\vlu_cntt\oop\ConsoleApp19\ConsoleApp19\obj\Debug\net9.0\ref\ConsoleApp19.dll

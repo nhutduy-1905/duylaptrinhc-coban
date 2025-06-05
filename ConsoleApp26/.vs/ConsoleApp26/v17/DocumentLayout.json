@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vlu_cntt\\oop\\ConsoleApp26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41017B20-CB7C-4B90-B9C3-03E6056EA7F5}|ConsoleApp26\\ConsoleApp26.csproj|d:\\vlu_cntt\\oop\\consoleapp26\\consoleapp26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41017B20-CB7C-4B90-B9C3-03E6056EA7F5}|ConsoleApp26\\ConsoleApp26.csproj|solutionrelative:consoleapp26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 507,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 159,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vlu_cntt\\oop\\ConsoleApp26\\ConsoleApp26\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp26\\Program.cs",
+              "ToolTip": "D:\\vlu_cntt\\oop\\ConsoleApp26\\ConsoleApp26\\Program.cs",
+              "RelativeToolTip": "ConsoleApp26\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:50:16.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

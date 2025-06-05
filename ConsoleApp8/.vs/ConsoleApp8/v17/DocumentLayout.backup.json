@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vlu_cntt\\oop\\ConsoleApp8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1546648F-871E-403C-B4C9-821D89BD6E5F}|ConsoleApp8\\ConsoleApp8.csproj|d:\\vlu_cntt\\oop\\consoleapp8\\consoleapp8\\sotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1546648F-871E-403C-B4C9-821D89BD6E5F}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\sotietkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1546648F-871E-403C-B4C9-821D89BD6E5F}|ConsoleApp8\\ConsoleApp8.csproj|d:\\vlu_cntt\\oop\\consoleapp8\\consoleapp8\\sotietkiemcohan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1546648F-871E-403C-B4C9-821D89BD6E5F}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\sotietkiemcohan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1546648F-871E-403C-B4C9-821D89BD6E5F}|ConsoleApp8\\ConsoleApp8.csproj|d:\\vlu_cntt\\oop\\consoleapp8\\consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1546648F-871E-403C-B4C9-821D89BD6E5F}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1546648F-871E-403C-B4C9-821D89BD6E5F}|ConsoleApp8\\ConsoleApp8.csproj|d:\\vlu_cntt\\oop\\consoleapp8\\consoleapp8\\nganhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1546648F-871E-403C-B4C9-821D89BD6E5F}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\nganhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1546648F-871E-403C-B4C9-821D89BD6E5F}|ConsoleApp8\\ConsoleApp8.csproj|d:\\vlu_cntt\\oop\\consoleapp8\\consoleapp8\\sotietkiemkhongkyhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1546648F-871E-403C-B4C9-821D89BD6E5F}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\sotietkiemkhongkyhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NganHang.cs",
+              "DocumentMoniker": "D:\\vlu_cntt\\oop\\ConsoleApp8\\ConsoleApp8\\NganHang.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\NganHang.cs",
+              "ToolTip": "D:\\vlu_cntt\\oop\\ConsoleApp8\\ConsoleApp8\\NganHang.cs",
+              "RelativeToolTip": "ConsoleApp8\\NganHang.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwDoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:53:30.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SOTIETKIEMKHONGKYHAN.cs",
+              "DocumentMoniker": "D:\\vlu_cntt\\oop\\ConsoleApp8\\ConsoleApp8\\SOTIETKIEMKHONGKYHAN.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\SOTIETKIEMKHONGKYHAN.cs",
+              "ToolTip": "D:\\vlu_cntt\\oop\\ConsoleApp8\\ConsoleApp8\\SOTIETKIEMKHONGKYHAN.cs",
+              "RelativeToolTip": "ConsoleApp8\\SOTIETKIEMKHONGKYHAN.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:45:04.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SOTIETKIEM.cs",
+              "DocumentMoniker": "D:\\vlu_cntt\\oop\\ConsoleApp8\\ConsoleApp8\\SOTIETKIEM.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\SOTIETKIEM.cs",
+              "ToolTip": "D:\\vlu_cntt\\oop\\ConsoleApp8\\ConsoleApp8\\SOTIETKIEM.cs",
+              "RelativeToolTip": "ConsoleApp8\\SOTIETKIEM.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAywCUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:44:40.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SOTIETKIEMCOHAN.cs",
+              "DocumentMoniker": "D:\\vlu_cntt\\oop\\ConsoleApp8\\ConsoleApp8\\SOTIETKIEMCOHAN.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\SOTIETKIEMCOHAN.cs",
+              "ToolTip": "D:\\vlu_cntt\\oop\\ConsoleApp8\\ConsoleApp8\\SOTIETKIEMCOHAN.cs",
+              "RelativeToolTip": "ConsoleApp8\\SOTIETKIEMCOHAN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:44:07.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vlu_cntt\\oop\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Program.cs",
+              "ToolTip": "D:\\vlu_cntt\\oop\\ConsoleApp8\\ConsoleApp8\\Program.cs",
+              "RelativeToolTip": "ConsoleApp8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:37:39.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

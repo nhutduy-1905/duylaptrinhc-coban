@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nYNt7aY7dxg=",
+  "success": true,
+  "projectFilePath": "D:\\vlu_cntt\\oop\\ConsoleApp7\\ConsoleApp7\\ConsoleApp7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tranh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

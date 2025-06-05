@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vlu_cntt\\oop\\ConsoleApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB276C0-AFFD-45D3-A710-019740D0148B}|ConsoleApp3\\ConsoleApp3.csproj|d:\\vlu_cntt\\oop\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB276C0-AFFD-45D3-A710-019740D0148B}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB276C0-AFFD-45D3-A710-019740D0148B}|ConsoleApp3\\ConsoleApp3.csproj|d:\\vlu_cntt\\oop\\consoleapp3\\consoleapp3\\ngoinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB276C0-AFFD-45D3-A710-019740D0148B}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\ngoinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB276C0-AFFD-45D3-A710-019740D0148B}|ConsoleApp3\\ConsoleApp3.csproj|d:\\vlu_cntt\\oop\\consoleapp3\\consoleapp3\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB276C0-AFFD-45D3-A710-019740D0148B}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB276C0-AFFD-45D3-A710-019740D0148B}|ConsoleApp3\\ConsoleApp3.csproj|d:\\vlu_cntt\\oop\\consoleapp3\\consoleapp3\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB276C0-AFFD-45D3-A710-019740D0148B}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB276C0-AFFD-45D3-A710-019740D0148B}|ConsoleApp3\\ConsoleApp3.csproj|d:\\vlu_cntt\\oop\\consoleapp3\\consoleapp3\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB276C0-AFFD-45D3-A710-019740D0148B}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\vlu_cntt\\oop\\ConsoleApp3\\ConsoleApp3\\Dog.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Dog.cs",
+              "ToolTip": "D:\\vlu_cntt\\oop\\ConsoleApp3\\ConsoleApp3\\Dog.cs",
+              "RelativeToolTip": "ConsoleApp3\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:08:43.677Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vlu_cntt\\oop\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "D:\\vlu_cntt\\oop\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:39:18.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NgoiNha.cs",
+              "DocumentMoniker": "D:\\vlu_cntt\\oop\\ConsoleApp3\\ConsoleApp3\\NgoiNha.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\NgoiNha.cs",
+              "ToolTip": "D:\\vlu_cntt\\oop\\ConsoleApp3\\ConsoleApp3\\NgoiNha.cs",
+              "RelativeToolTip": "ConsoleApp3\\NgoiNha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:27:39.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\vlu_cntt\\oop\\ConsoleApp3\\ConsoleApp3\\Cat.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Cat.cs",
+              "ToolTip": "D:\\vlu_cntt\\oop\\ConsoleApp3\\ConsoleApp3\\Cat.cs",
+              "RelativeToolTip": "ConsoleApp3\\Cat.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:20:33.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\vlu_cntt\\oop\\ConsoleApp3\\ConsoleApp3\\Animal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Animal.cs",
+              "ToolTip": "D:\\vlu_cntt\\oop\\ConsoleApp3\\ConsoleApp3\\Animal.cs",
+              "RelativeToolTip": "ConsoleApp3\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:38:49.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

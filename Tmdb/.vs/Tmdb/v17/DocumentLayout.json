@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vlu_cntt\\oop\\Tmdb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C24B3231-DA35-4CAF-BEA0-C7FE948030C9}|Tmdb.csproj|d:\\vlu_cntt\\oop\\tmdb\\tmdb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C24B3231-DA35-4CAF-BEA0-C7FE948030C9}|Tmdb.csproj|solutionrelative:tmdb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 11,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tmdb.http",
+              "DocumentMoniker": "D:\\vlu_cntt\\oop\\Tmdb\\Tmdb.http",
+              "RelativeDocumentMoniker": "Tmdb.http",
+              "ToolTip": "D:\\vlu_cntt\\oop\\Tmdb\\Tmdb.http",
+              "RelativeToolTip": "Tmdb.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-18T03:49:16.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

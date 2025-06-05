@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vlu_cntt\\oop\\API_TEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F387CF2-6364-9344-F183-F267A6DA466F}|API_TEST\\API_TEST.csproj|d:\\vlu_cntt\\oop\\api_test\\api_test\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F387CF2-6364-9344-F183-F267A6DA466F}|API_TEST\\API_TEST.csproj|solutionrelative:api_test\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 369,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\vlu_cntt\\oop\\API_TEST\\API_TEST\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API_TEST\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\vlu_cntt\\oop\\API_TEST\\API_TEST\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API_TEST\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:35:57.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

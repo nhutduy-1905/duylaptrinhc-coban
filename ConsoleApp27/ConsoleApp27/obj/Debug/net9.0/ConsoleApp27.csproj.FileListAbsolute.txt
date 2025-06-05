@@ -1,0 +1,14 @@
+D:\vlu_cntt\oop\ConsoleApp27\ConsoleApp27\obj\Debug\net9.0\ConsoleApp27.GeneratedMSBuildEditorConfig.editorconfig
+D:\vlu_cntt\oop\ConsoleApp27\ConsoleApp27\obj\Debug\net9.0\ConsoleApp27.AssemblyInfoInputs.cache
+D:\vlu_cntt\oop\ConsoleApp27\ConsoleApp27\obj\Debug\net9.0\ConsoleApp27.AssemblyInfo.cs
+D:\vlu_cntt\oop\ConsoleApp27\ConsoleApp27\obj\Debug\net9.0\ConsoleApp27.csproj.CoreCompileInputs.cache
+D:\vlu_cntt\oop\ConsoleApp27\ConsoleApp27\bin\Debug\net9.0\ConsoleApp27.exe
+D:\vlu_cntt\oop\ConsoleApp27\ConsoleApp27\bin\Debug\net9.0\ConsoleApp27.deps.json
+D:\vlu_cntt\oop\ConsoleApp27\ConsoleApp27\bin\Debug\net9.0\ConsoleApp27.runtimeconfig.json
+D:\vlu_cntt\oop\ConsoleApp27\ConsoleApp27\bin\Debug\net9.0\ConsoleApp27.dll
+D:\vlu_cntt\oop\ConsoleApp27\ConsoleApp27\bin\Debug\net9.0\ConsoleApp27.pdb
+D:\vlu_cntt\oop\ConsoleApp27\ConsoleApp27\obj\Debug\net9.0\ConsoleApp27.dll
+D:\vlu_cntt\oop\ConsoleApp27\ConsoleApp27\obj\Debug\net9.0\refint\ConsoleApp27.dll
+D:\vlu_cntt\oop\ConsoleApp27\ConsoleApp27\obj\Debug\net9.0\ConsoleApp27.pdb
+D:\vlu_cntt\oop\ConsoleApp27\ConsoleApp27\obj\Debug\net9.0\ConsoleApp27.genruntimeconfig.cache
+D:\vlu_cntt\oop\ConsoleApp27\ConsoleApp27\obj\Debug\net9.0\ref\ConsoleApp27.dll

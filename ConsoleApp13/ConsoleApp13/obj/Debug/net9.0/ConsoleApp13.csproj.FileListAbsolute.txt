@@ -1,0 +1,14 @@
+D:\vlu_cntt\oop\ConsoleApp13\ConsoleApp13\bin\Debug\net9.0\ConsoleApp13.exe
+D:\vlu_cntt\oop\ConsoleApp13\ConsoleApp13\bin\Debug\net9.0\ConsoleApp13.deps.json
+D:\vlu_cntt\oop\ConsoleApp13\ConsoleApp13\bin\Debug\net9.0\ConsoleApp13.runtimeconfig.json
+D:\vlu_cntt\oop\ConsoleApp13\ConsoleApp13\bin\Debug\net9.0\ConsoleApp13.dll
+D:\vlu_cntt\oop\ConsoleApp13\ConsoleApp13\bin\Debug\net9.0\ConsoleApp13.pdb
+D:\vlu_cntt\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net9.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+D:\vlu_cntt\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net9.0\ConsoleApp13.AssemblyInfoInputs.cache
+D:\vlu_cntt\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net9.0\ConsoleApp13.AssemblyInfo.cs
+D:\vlu_cntt\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net9.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+D:\vlu_cntt\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net9.0\ConsoleApp13.dll
+D:\vlu_cntt\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net9.0\refint\ConsoleApp13.dll
+D:\vlu_cntt\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net9.0\ConsoleApp13.pdb
+D:\vlu_cntt\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net9.0\ConsoleApp13.genruntimeconfig.cache
+D:\vlu_cntt\oop\ConsoleApp13\ConsoleApp13\obj\Debug\net9.0\ref\ConsoleApp13.dll

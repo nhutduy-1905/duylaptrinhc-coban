@@ -1,0 +1,14 @@
+D:\vlu_cntt\oop\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+D:\vlu_cntt\oop\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.AssemblyInfoInputs.cache
+D:\vlu_cntt\oop\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.AssemblyInfo.cs
+D:\vlu_cntt\oop\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\vlu_cntt\oop\ConsoleApp8\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.exe
+D:\vlu_cntt\oop\ConsoleApp8\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.deps.json
+D:\vlu_cntt\oop\ConsoleApp8\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.runtimeconfig.json
+D:\vlu_cntt\oop\ConsoleApp8\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.dll
+D:\vlu_cntt\oop\ConsoleApp8\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.pdb
+D:\vlu_cntt\oop\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.dll
+D:\vlu_cntt\oop\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\refint\ConsoleApp8.dll
+D:\vlu_cntt\oop\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.pdb
+D:\vlu_cntt\oop\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.genruntimeconfig.cache
+D:\vlu_cntt\oop\ConsoleApp8\ConsoleApp8\obj\Debug\net8.0\ref\ConsoleApp8.dll

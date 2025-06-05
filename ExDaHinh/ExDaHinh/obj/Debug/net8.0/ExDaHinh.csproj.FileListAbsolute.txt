@@ -1,0 +1,14 @@
+D:\vlu_cntt\oop\ExDaHinh\ExDaHinh\bin\Debug\net8.0\ExDaHinh.exe
+D:\vlu_cntt\oop\ExDaHinh\ExDaHinh\bin\Debug\net8.0\ExDaHinh.deps.json
+D:\vlu_cntt\oop\ExDaHinh\ExDaHinh\bin\Debug\net8.0\ExDaHinh.runtimeconfig.json
+D:\vlu_cntt\oop\ExDaHinh\ExDaHinh\bin\Debug\net8.0\ExDaHinh.dll
+D:\vlu_cntt\oop\ExDaHinh\ExDaHinh\bin\Debug\net8.0\ExDaHinh.pdb
+D:\vlu_cntt\oop\ExDaHinh\ExDaHinh\obj\Debug\net8.0\ExDaHinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\vlu_cntt\oop\ExDaHinh\ExDaHinh\obj\Debug\net8.0\ExDaHinh.AssemblyInfoInputs.cache
+D:\vlu_cntt\oop\ExDaHinh\ExDaHinh\obj\Debug\net8.0\ExDaHinh.AssemblyInfo.cs
+D:\vlu_cntt\oop\ExDaHinh\ExDaHinh\obj\Debug\net8.0\ExDaHinh.csproj.CoreCompileInputs.cache
+D:\vlu_cntt\oop\ExDaHinh\ExDaHinh\obj\Debug\net8.0\ExDaHinh.dll
+D:\vlu_cntt\oop\ExDaHinh\ExDaHinh\obj\Debug\net8.0\refint\ExDaHinh.dll
+D:\vlu_cntt\oop\ExDaHinh\ExDaHinh\obj\Debug\net8.0\ExDaHinh.pdb
+D:\vlu_cntt\oop\ExDaHinh\ExDaHinh\obj\Debug\net8.0\ExDaHinh.genruntimeconfig.cache
+D:\vlu_cntt\oop\ExDaHinh\ExDaHinh\obj\Debug\net8.0\ref\ExDaHinh.dll

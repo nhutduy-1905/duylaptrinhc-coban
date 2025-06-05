@@ -1,0 +1,14 @@
+D:\vlu_cntt\oop\ConsoleApp26\ConsoleApp26\bin\Debug\net9.0\ConsoleApp26.exe
+D:\vlu_cntt\oop\ConsoleApp26\ConsoleApp26\bin\Debug\net9.0\ConsoleApp26.deps.json
+D:\vlu_cntt\oop\ConsoleApp26\ConsoleApp26\bin\Debug\net9.0\ConsoleApp26.runtimeconfig.json
+D:\vlu_cntt\oop\ConsoleApp26\ConsoleApp26\bin\Debug\net9.0\ConsoleApp26.dll
+D:\vlu_cntt\oop\ConsoleApp26\ConsoleApp26\bin\Debug\net9.0\ConsoleApp26.pdb
+D:\vlu_cntt\oop\ConsoleApp26\ConsoleApp26\obj\Debug\net9.0\ConsoleApp26.GeneratedMSBuildEditorConfig.editorconfig
+D:\vlu_cntt\oop\ConsoleApp26\ConsoleApp26\obj\Debug\net9.0\ConsoleApp26.AssemblyInfoInputs.cache
+D:\vlu_cntt\oop\ConsoleApp26\ConsoleApp26\obj\Debug\net9.0\ConsoleApp26.AssemblyInfo.cs
+D:\vlu_cntt\oop\ConsoleApp26\ConsoleApp26\obj\Debug\net9.0\ConsoleApp26.csproj.CoreCompileInputs.cache
+D:\vlu_cntt\oop\ConsoleApp26\ConsoleApp26\obj\Debug\net9.0\ConsoleApp26.dll
+D:\vlu_cntt\oop\ConsoleApp26\ConsoleApp26\obj\Debug\net9.0\refint\ConsoleApp26.dll
+D:\vlu_cntt\oop\ConsoleApp26\ConsoleApp26\obj\Debug\net9.0\ConsoleApp26.pdb
+D:\vlu_cntt\oop\ConsoleApp26\ConsoleApp26\obj\Debug\net9.0\ConsoleApp26.genruntimeconfig.cache
+D:\vlu_cntt\oop\ConsoleApp26\ConsoleApp26\obj\Debug\net9.0\ref\ConsoleApp26.dll

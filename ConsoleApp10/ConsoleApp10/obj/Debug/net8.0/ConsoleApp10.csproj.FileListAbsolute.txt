@@ -1,0 +1,4 @@
+D:\vlu_cntt\oop\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+D:\vlu_cntt\oop\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.AssemblyInfoInputs.cache
+D:\vlu_cntt\oop\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.AssemblyInfo.cs
+D:\vlu_cntt\oop\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.csproj.CoreCompileInputs.cache

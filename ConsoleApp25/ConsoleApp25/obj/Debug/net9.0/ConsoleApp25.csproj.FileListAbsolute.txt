@@ -1,0 +1,14 @@
+D:\vlu_cntt\oop\ConsoleApp25\ConsoleApp25\bin\Debug\net9.0\ConsoleApp25.exe
+D:\vlu_cntt\oop\ConsoleApp25\ConsoleApp25\bin\Debug\net9.0\ConsoleApp25.deps.json
+D:\vlu_cntt\oop\ConsoleApp25\ConsoleApp25\bin\Debug\net9.0\ConsoleApp25.runtimeconfig.json
+D:\vlu_cntt\oop\ConsoleApp25\ConsoleApp25\bin\Debug\net9.0\ConsoleApp25.dll
+D:\vlu_cntt\oop\ConsoleApp25\ConsoleApp25\bin\Debug\net9.0\ConsoleApp25.pdb
+D:\vlu_cntt\oop\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ConsoleApp25.GeneratedMSBuildEditorConfig.editorconfig
+D:\vlu_cntt\oop\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ConsoleApp25.AssemblyInfoInputs.cache
+D:\vlu_cntt\oop\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ConsoleApp25.AssemblyInfo.cs
+D:\vlu_cntt\oop\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ConsoleApp25.csproj.CoreCompileInputs.cache
+D:\vlu_cntt\oop\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ConsoleApp25.dll
+D:\vlu_cntt\oop\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\refint\ConsoleApp25.dll
+D:\vlu_cntt\oop\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ConsoleApp25.pdb
+D:\vlu_cntt\oop\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ConsoleApp25.genruntimeconfig.cache
+D:\vlu_cntt\oop\ConsoleApp25\ConsoleApp25\obj\Debug\net9.0\ref\ConsoleApp25.dll
