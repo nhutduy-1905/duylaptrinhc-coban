@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mảng\Mảng\bin\Debug\net8.0\Mảng.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mảng\Mảng\bin\Debug\net8.0\Mảng.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mảng\Mảng\bin\Debug\net8.0\Mảng.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mảng\Mảng\bin\Debug\net8.0\Mảng.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mảng\Mảng\bin\Debug\net8.0\Mảng.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mảng\Mảng\obj\Debug\net8.0\Mảng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mảng\Mảng\obj\Debug\net8.0\Mảng.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mảng\Mảng\obj\Debug\net8.0\Mảng.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mảng\Mảng\obj\Debug\net8.0\Mảng.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mảng\Mảng\obj\Debug\net8.0\Mảng.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mảng\Mảng\obj\Debug\net8.0\refint\Mảng.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mảng\Mảng\obj\Debug\net8.0\Mảng.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mảng\Mảng\obj\Debug\net8.0\Mảng.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Mảng\Mảng\obj\Debug\net8.0\ref\Mảng.dll

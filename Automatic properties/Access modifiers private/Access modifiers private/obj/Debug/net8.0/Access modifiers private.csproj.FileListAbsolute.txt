@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access modifiers private\Access modifiers private\bin\Debug\net8.0\Access modifiers private.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access modifiers private\Access modifiers private\bin\Debug\net8.0\Access modifiers private.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access modifiers private\Access modifiers private\bin\Debug\net8.0\Access modifiers private.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access modifiers private\Access modifiers private\bin\Debug\net8.0\Access modifiers private.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access modifiers private\Access modifiers private\bin\Debug\net8.0\Access modifiers private.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access modifiers private\Access modifiers private\obj\Debug\net8.0\Access modifiers private.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access modifiers private\Access modifiers private\obj\Debug\net8.0\Access modifiers private.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access modifiers private\Access modifiers private\obj\Debug\net8.0\Access modifiers private.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access modifiers private\Access modifiers private\obj\Debug\net8.0\Access modifiers private.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access modifiers private\Access modifiers private\obj\Debug\net8.0\Access modifiers private.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access modifiers private\Access modifiers private\obj\Debug\net8.0\refint\Access modifiers private.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access modifiers private\Access modifiers private\obj\Debug\net8.0\Access modifiers private.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access modifiers private\Access modifiers private\obj\Debug\net8.0\Access modifiers private.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Access modifiers private\Access modifiers private\obj\Debug\net8.0\ref\Access modifiers private.dll

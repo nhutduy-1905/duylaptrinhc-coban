@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Named Arguments\Named Arguments\obj\Debug\net8.0\Named Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Named Arguments\Named Arguments\obj\Debug\net8.0\Named Arguments.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Named Arguments\Named Arguments\obj\Debug\net8.0\Named Arguments.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Named Arguments\Named Arguments\obj\Debug\net8.0\Named Arguments.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Named Arguments\Named Arguments\bin\Debug\net8.0\Named Arguments.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Named Arguments\Named Arguments\bin\Debug\net8.0\Named Arguments.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Named Arguments\Named Arguments\bin\Debug\net8.0\Named Arguments.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Named Arguments\Named Arguments\bin\Debug\net8.0\Named Arguments.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Named Arguments\Named Arguments\bin\Debug\net8.0\Named Arguments.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Named Arguments\Named Arguments\obj\Debug\net8.0\Named Arguments.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Named Arguments\Named Arguments\obj\Debug\net8.0\refint\Named Arguments.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Named Arguments\Named Arguments\obj\Debug\net8.0\Named Arguments.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Named Arguments\Named Arguments\obj\Debug\net8.0\Named Arguments.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Named Arguments\Named Arguments\obj\Debug\net8.0\ref\Named Arguments.dll

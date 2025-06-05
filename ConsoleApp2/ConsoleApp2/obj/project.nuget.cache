@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "/En1hijopuU=",
@@ -10,4 +11,13 @@
     "C:\\Users\\tranh\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.10\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.10.nupkg.sha512"
   ],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "MSxwP6XGN9COv0XL1MU3EkJ7Pq3596u0OxYqQlBrNlKbfFjvzJ6ApTvigKOe4TgYHsqPPVKu+oRrfGtSQKlHjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\OneDrive - VLG\\Desktop\\Documents\\DuyLaptrinhC#coban\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> e5da0a09be367aabd4762c272c20b63a5e12f3be
 }

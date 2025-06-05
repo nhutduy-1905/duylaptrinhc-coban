@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 is_global = true
 build_property.EnableAotAnalyzer = true
 build_property.EnableSingleFileAnalyzer = true
@@ -15,3 +16,18 @@ build_property.RootNamespace = ConsoleApp2
 build_property.ProjectDir = D:\vlu_cntt\oop\ConsoleApp2\ConsoleApp2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
+=======
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ConsoleApp2
+build_property.ProjectDir = C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\ConsoleApp2\ConsoleApp2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+>>>>>>> e5da0a09be367aabd4762c272c20b63a5e12f3be

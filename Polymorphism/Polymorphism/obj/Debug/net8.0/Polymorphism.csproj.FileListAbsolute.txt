@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Polymorphism\Polymorphism\bin\Debug\net8.0\Polymorphism.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Polymorphism\Polymorphism\bin\Debug\net8.0\Polymorphism.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Polymorphism\Polymorphism\bin\Debug\net8.0\Polymorphism.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Polymorphism\Polymorphism\bin\Debug\net8.0\Polymorphism.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Polymorphism\Polymorphism\bin\Debug\net8.0\Polymorphism.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Polymorphism\Polymorphism\obj\Debug\net8.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Polymorphism\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Polymorphism\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Polymorphism\Polymorphism\obj\Debug\net8.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Polymorphism\Polymorphism\obj\Debug\net8.0\Polymorphism.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Polymorphism\Polymorphism\obj\Debug\net8.0\refint\Polymorphism.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Polymorphism\Polymorphism\obj\Debug\net8.0\Polymorphism.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Polymorphism\Polymorphism\obj\Debug\net8.0\Polymorphism.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Polymorphism\Polymorphism\obj\Debug\net8.0\ref\Polymorphism.dll

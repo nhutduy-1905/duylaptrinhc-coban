@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers\Classes Numbers\bin\Debug\net8.0\Classes Numbers.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers\Classes Numbers\bin\Debug\net8.0\Classes Numbers.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers\Classes Numbers\bin\Debug\net8.0\Classes Numbers.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers\Classes Numbers\bin\Debug\net8.0\Classes Numbers.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers\Classes Numbers\bin\Debug\net8.0\Classes Numbers.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers\Classes Numbers\obj\Debug\net8.0\Classes Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers\Classes Numbers\obj\Debug\net8.0\Classes Numbers.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers\Classes Numbers\obj\Debug\net8.0\Classes Numbers.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers\Classes Numbers\obj\Debug\net8.0\Classes Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers\Classes Numbers\obj\Debug\net8.0\Classes Numbers.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers\Classes Numbers\obj\Debug\net8.0\refint\Classes Numbers.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers\Classes Numbers\obj\Debug\net8.0\Classes Numbers.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers\Classes Numbers\obj\Debug\net8.0\Classes Numbers.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers\Classes Numbers\obj\Debug\net8.0\ref\Classes Numbers.dll

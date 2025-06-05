@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\ke_thua\ke_thua\bin\Debug\net8.0\ke_thua.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\ke_thua\ke_thua\bin\Debug\net8.0\ke_thua.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\ke_thua\ke_thua\bin\Debug\net8.0\ke_thua.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\ke_thua\ke_thua\bin\Debug\net8.0\ke_thua.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\ke_thua\ke_thua\bin\Debug\net8.0\ke_thua.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\ke_thua\ke_thua\obj\Debug\net8.0\ke_thua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\ke_thua\ke_thua\obj\Debug\net8.0\ke_thua.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\ke_thua\ke_thua\obj\Debug\net8.0\ke_thua.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\ke_thua\ke_thua\obj\Debug\net8.0\ke_thua.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\ke_thua\ke_thua\obj\Debug\net8.0\ke_thua.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\ke_thua\ke_thua\obj\Debug\net8.0\refint\ke_thua.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\ke_thua\ke_thua\obj\Debug\net8.0\ke_thua.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\ke_thua\ke_thua\obj\Debug\net8.0\ke_thua.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\ke_thua\ke_thua\obj\Debug\net8.0\ref\ke_thua.dll

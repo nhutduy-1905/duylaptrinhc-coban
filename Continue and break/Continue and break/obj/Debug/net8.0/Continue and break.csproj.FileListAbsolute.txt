@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue and break\Continue and break\bin\Debug\net8.0\Continue and break.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue and break\Continue and break\bin\Debug\net8.0\Continue and break.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue and break\Continue and break\bin\Debug\net8.0\Continue and break.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue and break\Continue and break\bin\Debug\net8.0\Continue and break.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue and break\Continue and break\bin\Debug\net8.0\Continue and break.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue and break\Continue and break\obj\Debug\net8.0\Continue and break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue and break\Continue and break\obj\Debug\net8.0\Continue and break.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue and break\Continue and break\obj\Debug\net8.0\Continue and break.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue and break\Continue and break\obj\Debug\net8.0\Continue and break.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue and break\Continue and break\obj\Debug\net8.0\Continue and break.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue and break\Continue and break\obj\Debug\net8.0\refint\Continue and break.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue and break\Continue and break\obj\Debug\net8.0\Continue and break.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue and break\Continue and break\obj\Debug\net8.0\Continue and break.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Continue and break\Continue and break\obj\Debug\net8.0\ref\Continue and break.dll

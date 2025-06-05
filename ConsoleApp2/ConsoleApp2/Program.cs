@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System.Runtime.Intrinsics.X86;
@@ -51,3 +52,7 @@ int a1 = 5; int b1 = 8;int c1 = 9;
 int z = ++a1 - b++ - --c1 + 2;
 Console.WriteLine("a = {0}, b = {1}, c = {2}, z= {3}",a1,b1,c1,z);
 Console.ReadLine();
+=======
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+>>>>>>> e5da0a09be367aabd4762c272c20b63a5e12f3be

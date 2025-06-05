@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes and Objects\Classes and Objects\bin\Debug\net8.0\Classes and Objects.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes and Objects\Classes and Objects\bin\Debug\net8.0\Classes and Objects.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes and Objects\Classes and Objects\bin\Debug\net8.0\Classes and Objects.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes and Objects\Classes and Objects\bin\Debug\net8.0\Classes and Objects.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes and Objects\Classes and Objects\bin\Debug\net8.0\Classes and Objects.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes and Objects\Classes and Objects\obj\Debug\net8.0\Classes and Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes and Objects\Classes and Objects\obj\Debug\net8.0\Classes and Objects.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes and Objects\Classes and Objects\obj\Debug\net8.0\Classes and Objects.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes and Objects\Classes and Objects\obj\Debug\net8.0\Classes and Objects.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes and Objects\Classes and Objects\obj\Debug\net8.0\Classes and Objects.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes and Objects\Classes and Objects\obj\Debug\net8.0\refint\Classes and Objects.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes and Objects\Classes and Objects\obj\Debug\net8.0\Classes and Objects.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes and Objects\Classes and Objects\obj\Debug\net8.0\Classes and Objects.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes and Objects\Classes and Objects\obj\Debug\net8.0\ref\Classes and Objects.dll

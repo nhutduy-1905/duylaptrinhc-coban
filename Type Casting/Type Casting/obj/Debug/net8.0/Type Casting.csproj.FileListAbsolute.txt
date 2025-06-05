@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Type Casting\Type Casting\bin\Debug\net8.0\Type Casting.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Type Casting\Type Casting\bin\Debug\net8.0\Type Casting.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Type Casting\Type Casting\bin\Debug\net8.0\Type Casting.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Type Casting\Type Casting\bin\Debug\net8.0\Type Casting.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Type Casting\Type Casting\bin\Debug\net8.0\Type Casting.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Type Casting\Type Casting\obj\Debug\net8.0\Type Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Type Casting\Type Casting\obj\Debug\net8.0\Type Casting.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Type Casting\Type Casting\obj\Debug\net8.0\Type Casting.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Type Casting\Type Casting\obj\Debug\net8.0\Type Casting.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Type Casting\Type Casting\obj\Debug\net8.0\Type Casting.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Type Casting\Type Casting\obj\Debug\net8.0\refint\Type Casting.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Type Casting\Type Casting\obj\Debug\net8.0\Type Casting.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Type Casting\Type Casting\obj\Debug\net8.0\Type Casting.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Type Casting\Type Casting\obj\Debug\net8.0\ref\Type Casting.dll

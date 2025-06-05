@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "8t/UCu9+Bx8=",
@@ -7,4 +8,13 @@
     "C:\\Users\\tranh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
   ],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "Hzbh2iMzRYmqg/VUt5HYX8JTExyeOeUr8hQWvdnS+sqJ5xQ0v2IYFZJvBR2VZ10qjPefasVqFe3lsAPNWlqMFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\OneDrive - VLG\\Desktop\\Documents\\DuyLaptrinhC#coban\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> e5da0a09be367aabd4762c272c20b63a5e12f3be
 }

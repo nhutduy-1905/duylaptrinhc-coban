@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\While lop\While lop\bin\Debug\net8.0\While lop.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\While lop\While lop\bin\Debug\net8.0\While lop.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\While lop\While lop\bin\Debug\net8.0\While lop.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\While lop\While lop\bin\Debug\net8.0\While lop.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\While lop\While lop\bin\Debug\net8.0\While lop.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\While lop\While lop\obj\Debug\net8.0\While lop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\While lop\While lop\obj\Debug\net8.0\While lop.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\While lop\While lop\obj\Debug\net8.0\While lop.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\While lop\While lop\obj\Debug\net8.0\While lop.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\While lop\While lop\obj\Debug\net8.0\While lop.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\While lop\While lop\obj\Debug\net8.0\refint\While lop.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\While lop\While lop\obj\Debug\net8.0\While lop.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\While lop\While lop\obj\Debug\net8.0\While lop.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\While lop\While lop\obj\Debug\net8.0\ref\While lop.dll

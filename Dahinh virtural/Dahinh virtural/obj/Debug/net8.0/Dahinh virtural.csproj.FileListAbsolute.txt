@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Dahinh virtural\Dahinh virtural\bin\Debug\net8.0\Dahinh virtural.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Dahinh virtural\Dahinh virtural\bin\Debug\net8.0\Dahinh virtural.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Dahinh virtural\Dahinh virtural\bin\Debug\net8.0\Dahinh virtural.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Dahinh virtural\Dahinh virtural\bin\Debug\net8.0\Dahinh virtural.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Dahinh virtural\Dahinh virtural\bin\Debug\net8.0\Dahinh virtural.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Dahinh virtural\Dahinh virtural\obj\Debug\net8.0\Dahinh virtural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Dahinh virtural\Dahinh virtural\obj\Debug\net8.0\Dahinh virtural.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Dahinh virtural\Dahinh virtural\obj\Debug\net8.0\Dahinh virtural.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Dahinh virtural\Dahinh virtural\obj\Debug\net8.0\Dahinh virtural.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Dahinh virtural\Dahinh virtural\obj\Debug\net8.0\Dahinh virtural.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Dahinh virtural\Dahinh virtural\obj\Debug\net8.0\refint\Dahinh virtural.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Dahinh virtural\Dahinh virtural\obj\Debug\net8.0\Dahinh virtural.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Dahinh virtural\Dahinh virtural\obj\Debug\net8.0\Dahinh virtural.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Dahinh virtural\Dahinh virtural\obj\Debug\net8.0\ref\Dahinh virtural.dll

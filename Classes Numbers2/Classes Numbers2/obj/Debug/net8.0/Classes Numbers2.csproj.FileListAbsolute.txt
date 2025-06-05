@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers2\Classes Numbers2\bin\Debug\net8.0\Classes Numbers2.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers2\Classes Numbers2\bin\Debug\net8.0\Classes Numbers2.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers2\Classes Numbers2\bin\Debug\net8.0\Classes Numbers2.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers2\Classes Numbers2\bin\Debug\net8.0\Classes Numbers2.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers2\Classes Numbers2\bin\Debug\net8.0\Classes Numbers2.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers2\Classes Numbers2\obj\Debug\net8.0\Classes Numbers2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers2\Classes Numbers2\obj\Debug\net8.0\Classes Numbers2.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers2\Classes Numbers2\obj\Debug\net8.0\Classes Numbers2.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers2\Classes Numbers2\obj\Debug\net8.0\Classes Numbers2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers2\Classes Numbers2\obj\Debug\net8.0\Classes Numbers2.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers2\Classes Numbers2\obj\Debug\net8.0\refint\Classes Numbers2.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers2\Classes Numbers2\obj\Debug\net8.0\Classes Numbers2.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers2\Classes Numbers2\obj\Debug\net8.0\Classes Numbers2.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Classes Numbers2\Classes Numbers2\obj\Debug\net8.0\ref\Classes Numbers2.dll

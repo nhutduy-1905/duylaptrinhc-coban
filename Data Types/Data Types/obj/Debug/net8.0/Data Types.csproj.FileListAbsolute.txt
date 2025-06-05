@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Data Types\Data Types\bin\Debug\net8.0\Data Types.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Data Types\Data Types\bin\Debug\net8.0\Data Types.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Data Types\Data Types\bin\Debug\net8.0\Data Types.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Data Types\Data Types\bin\Debug\net8.0\Data Types.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Data Types\Data Types\bin\Debug\net8.0\Data Types.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Data Types\Data Types\obj\Debug\net8.0\Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Data Types\Data Types\obj\Debug\net8.0\Data Types.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Data Types\Data Types\obj\Debug\net8.0\Data Types.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Data Types\Data Types\obj\Debug\net8.0\Data Types.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Data Types\Data Types\obj\Debug\net8.0\Data Types.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Data Types\Data Types\obj\Debug\net8.0\refint\Data Types.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Data Types\Data Types\obj\Debug\net8.0\Data Types.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Data Types\Data Types\obj\Debug\net8.0\Data Types.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\Data Types\Data Types\obj\Debug\net8.0\ref\Data Types.dll

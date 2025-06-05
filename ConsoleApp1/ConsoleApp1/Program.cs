@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System.Text;
@@ -40,3 +41,7 @@ namespace Bai03
         }
     }
 }
+=======
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+>>>>>>> e5da0a09be367aabd4762c272c20b63a5e12f3be

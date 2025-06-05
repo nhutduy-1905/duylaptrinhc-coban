@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\Teach\VLU\LapTrinhOOP\TinhTuoi\TinhTuoi\bin\Debug\TinhTuoi.exe.config
 D:\Teach\VLU\LapTrinhOOP\TinhTuoi\TinhTuoi\bin\Debug\TinhTuoi.exe
 D:\Teach\VLU\LapTrinhOOP\TinhTuoi\TinhTuoi\bin\Debug\TinhTuoi.pdb
@@ -18,3 +19,25 @@ D:\vlu_cntt\oop\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.csproj.GenerateResource.cac
 D:\vlu_cntt\oop\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.csproj.CoreCompileInputs.cache
 D:\vlu_cntt\oop\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.exe
 D:\vlu_cntt\oop\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.pdb
+=======
+D:\Teach\VLU\LapTrinhOOP\TinhTuoi\TinhTuoi\bin\Debug\TinhTuoi.exe.config
+D:\Teach\VLU\LapTrinhOOP\TinhTuoi\TinhTuoi\bin\Debug\TinhTuoi.exe
+D:\Teach\VLU\LapTrinhOOP\TinhTuoi\TinhTuoi\bin\Debug\TinhTuoi.pdb
+D:\Teach\VLU\LapTrinhOOP\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.csproj.AssemblyReference.cache
+D:\Teach\VLU\LapTrinhOOP\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.frmTinhTuoi.resources
+D:\Teach\VLU\LapTrinhOOP\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.Properties.Resources.resources
+D:\Teach\VLU\LapTrinhOOP\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.csproj.GenerateResource.cache
+D:\Teach\VLU\LapTrinhOOP\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.csproj.CoreCompileInputs.cache
+D:\Teach\VLU\LapTrinhOOP\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.exe
+D:\Teach\VLU\LapTrinhOOP\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.pdb
+D:\vlu_cntt\oop\TinhTuoi\TinhTuoi\bin\Debug\TinhTuoi.exe.config
+D:\vlu_cntt\oop\TinhTuoi\TinhTuoi\bin\Debug\TinhTuoi.exe
+D:\vlu_cntt\oop\TinhTuoi\TinhTuoi\bin\Debug\TinhTuoi.pdb
+D:\vlu_cntt\oop\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.csproj.AssemblyReference.cache
+D:\vlu_cntt\oop\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.frmTinhTuoi.resources
+D:\vlu_cntt\oop\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.Properties.Resources.resources
+D:\vlu_cntt\oop\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.csproj.GenerateResource.cache
+D:\vlu_cntt\oop\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.csproj.CoreCompileInputs.cache
+D:\vlu_cntt\oop\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.exe
+D:\vlu_cntt\oop\TinhTuoi\TinhTuoi\obj\Debug\TinhTuoi.pdb
+>>>>>>> e5da0a09be367aabd4762c272c20b63a5e12f3be

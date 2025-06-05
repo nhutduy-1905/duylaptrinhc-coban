@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\bin\Debug\QuanLyThuCung.exe.config
 D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\bin\Debug\QuanLyThuCung.exe
 D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\bin\Debug\QuanLyThuCung.pdb
@@ -5,3 +6,12 @@ D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\obj\Debug\QuanLyThuCung.csp
 D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\obj\Debug\QuanLyThuCung.csproj.CoreCompileInputs.cache
 D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\obj\Debug\QuanLyThuCung.exe
 D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\obj\Debug\QuanLyThuCung.pdb
+=======
+D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\bin\Debug\QuanLyThuCung.exe.config
+D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\bin\Debug\QuanLyThuCung.exe
+D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\bin\Debug\QuanLyThuCung.pdb
+D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\obj\Debug\QuanLyThuCung.csproj.AssemblyReference.cache
+D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\obj\Debug\QuanLyThuCung.csproj.CoreCompileInputs.cache
+D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\obj\Debug\QuanLyThuCung.exe
+D:\Teach\VLU\LapTrinhOOP\QuanLyThuCung\QuanLyThuCung\obj\Debug\QuanLyThuCung.pdb
+>>>>>>> e5da0a09be367aabd4762c272c20b63a5e12f3be

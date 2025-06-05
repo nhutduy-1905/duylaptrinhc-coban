@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\dong_goi_course\dong_goi_course\obj\Debug\net8.0\dong_goi_course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\dong_goi_course\dong_goi_course\obj\Debug\net8.0\dong_goi_course.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\dong_goi_course\dong_goi_course\obj\Debug\net8.0\dong_goi_course.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\dong_goi_course\dong_goi_course\obj\Debug\net8.0\dong_goi_course.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\dong_goi_course\dong_goi_course\bin\Debug\net8.0\dong_goi_course.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\dong_goi_course\dong_goi_course\bin\Debug\net8.0\dong_goi_course.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\dong_goi_course\dong_goi_course\bin\Debug\net8.0\dong_goi_course.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\dong_goi_course\dong_goi_course\bin\Debug\net8.0\dong_goi_course.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\dong_goi_course\dong_goi_course\bin\Debug\net8.0\dong_goi_course.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\dong_goi_course\dong_goi_course\obj\Debug\net8.0\dong_goi_course.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\dong_goi_course\dong_goi_course\obj\Debug\net8.0\refint\dong_goi_course.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\dong_goi_course\dong_goi_course\obj\Debug\net8.0\dong_goi_course.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\dong_goi_course\dong_goi_course\obj\Debug\net8.0\dong_goi_course.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\dong_goi_course\dong_goi_course\obj\Debug\net8.0\ref\dong_goi_course.dll

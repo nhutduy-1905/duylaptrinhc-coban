@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\newprojectkethua\newprojectkethua\obj\Debug\net8.0\newprojectkethua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\newprojectkethua\newprojectkethua\obj\Debug\net8.0\newprojectkethua.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\newprojectkethua\newprojectkethua\obj\Debug\net8.0\newprojectkethua.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\newprojectkethua\newprojectkethua\obj\Debug\net8.0\newprojectkethua.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\newprojectkethua\newprojectkethua\bin\Debug\net8.0\newprojectkethua.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\newprojectkethua\newprojectkethua\bin\Debug\net8.0\newprojectkethua.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\newprojectkethua\newprojectkethua\bin\Debug\net8.0\newprojectkethua.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\newprojectkethua\newprojectkethua\bin\Debug\net8.0\newprojectkethua.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\newprojectkethua\newprojectkethua\bin\Debug\net8.0\newprojectkethua.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\newprojectkethua\newprojectkethua\obj\Debug\net8.0\newprojectkethua.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\newprojectkethua\newprojectkethua\obj\Debug\net8.0\refint\newprojectkethua.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\newprojectkethua\newprojectkethua\obj\Debug\net8.0\newprojectkethua.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\newprojectkethua\newprojectkethua\obj\Debug\net8.0\newprojectkethua.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\newprojectkethua\newprojectkethua\obj\Debug\net8.0\ref\newprojectkethua.dll

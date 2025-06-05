@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\khonggiantenSystem.Linq\khonggiantenSystem.Linq\bin\Debug\net8.0\khonggiantenSystem.Linq.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\khonggiantenSystem.Linq\khonggiantenSystem.Linq\bin\Debug\net8.0\khonggiantenSystem.Linq.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\khonggiantenSystem.Linq\khonggiantenSystem.Linq\bin\Debug\net8.0\khonggiantenSystem.Linq.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\khonggiantenSystem.Linq\khonggiantenSystem.Linq\bin\Debug\net8.0\khonggiantenSystem.Linq.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\khonggiantenSystem.Linq\khonggiantenSystem.Linq\bin\Debug\net8.0\khonggiantenSystem.Linq.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\khonggiantenSystem.Linq\khonggiantenSystem.Linq\obj\Debug\net8.0\khonggiantenSystem.Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\khonggiantenSystem.Linq\khonggiantenSystem.Linq\obj\Debug\net8.0\khonggiantenSystem.Linq.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\khonggiantenSystem.Linq\khonggiantenSystem.Linq\obj\Debug\net8.0\khonggiantenSystem.Linq.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\khonggiantenSystem.Linq\khonggiantenSystem.Linq\obj\Debug\net8.0\khonggiantenSystem.Linq.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\khonggiantenSystem.Linq\khonggiantenSystem.Linq\obj\Debug\net8.0\khonggiantenSystem.Linq.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\khonggiantenSystem.Linq\khonggiantenSystem.Linq\obj\Debug\net8.0\refint\khonggiantenSystem.Linq.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\khonggiantenSystem.Linq\khonggiantenSystem.Linq\obj\Debug\net8.0\khonggiantenSystem.Linq.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\khonggiantenSystem.Linq\khonggiantenSystem.Linq\obj\Debug\net8.0\khonggiantenSystem.Linq.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\khonggiantenSystem.Linq\khonggiantenSystem.Linq\obj\Debug\net8.0\ref\khonggiantenSystem.Linq.dll

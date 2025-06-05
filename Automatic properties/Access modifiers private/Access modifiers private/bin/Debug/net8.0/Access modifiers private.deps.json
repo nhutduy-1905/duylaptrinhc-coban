@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Access modifiers private/1.0.0": {
+        "runtime": {
+          "Access modifiers private.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Access modifiers private/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

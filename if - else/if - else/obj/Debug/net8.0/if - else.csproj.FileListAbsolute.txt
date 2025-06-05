@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\if - else\if - else\bin\Debug\net8.0\if - else.exe
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\if - else\if - else\bin\Debug\net8.0\if - else.deps.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\if - else\if - else\bin\Debug\net8.0\if - else.runtimeconfig.json
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\if - else\if - else\bin\Debug\net8.0\if - else.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\if - else\if - else\bin\Debug\net8.0\if - else.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\if - else\if - else\obj\Debug\net8.0\if - else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\if - else\if - else\obj\Debug\net8.0\if - else.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\if - else\if - else\obj\Debug\net8.0\if - else.AssemblyInfo.cs
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\if - else\if - else\obj\Debug\net8.0\if - else.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\if - else\if - else\obj\Debug\net8.0\if - else.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\if - else\if - else\obj\Debug\net8.0\refint\if - else.dll
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\if - else\if - else\obj\Debug\net8.0\if - else.pdb
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\if - else\if - else\obj\Debug\net8.0\if - else.genruntimeconfig.cache
+C:\Users\ACER\OneDrive - VLG\Desktop\Documents\DuyLaptrinhC#coban\if - else\if - else\obj\Debug\net8.0\ref\if - else.dll
